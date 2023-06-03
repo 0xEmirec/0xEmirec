@@ -1,5 +1,5 @@
 
-#</ 💫 Welcome To My Github Profile>:
+#💫 Welcome To My Github Profile:
 Hello, I am Recep Emir Yardım. I am a computer engineering student. I am interested in Java programming and cybersecurity, and I constantly strive to improve myself in these fields.
 
 
