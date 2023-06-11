@@ -25,4 +25,6 @@ Hello, I am Recep Emir Yardım. I am a computer engineering student. I am intere
 ---
 [![](https://visitcount.itsvg.in/api?id=0xEmirec&icon=2&color=1)](https://visitcount.itsvg.in)
 
+![]([https://github-profile-trophy.vercel.app/?username=0xEmirec&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif))
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
